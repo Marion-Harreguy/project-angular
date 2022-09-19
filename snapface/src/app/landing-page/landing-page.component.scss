@@ -1,0 +1,26 @@
+.landing-block {
+    width: 570px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 40px auto;
+    text-align: center 20px auto;
+    img {
+        width: 520px;
+        height: auto;
+    }
+}
+  
+.landing-links {
+    width: 100%;
+    text-align: center;
+    margin: 30px 0 5px 0;
+}
+
+button {
+    font-size: 20px;
+    transition: background-color .2s ease-in-out;
+    &:hover {
+        background-color: rgba(236, 191, 160, .9);
+      }
+}

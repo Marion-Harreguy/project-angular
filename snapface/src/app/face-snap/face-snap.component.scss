@@ -1,0 +1,41 @@
+.face-snap-card {
+    background: rgba(255, 255, 255, .9);
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 50%;
+    margin: 40px auto;
+    padding: 10px 30px;
+    img {
+      width: 100%;
+      border-radius: 10px;
+    }
+    h2 {
+      	margin-bottom: 0;
+    }
+    p {
+      	font-weight: 300;
+      	font-size: 16px;
+    }
+    .date {
+      font-size: 13px;
+    }
+    button {
+      font-size: 14px;
+      transition: background-color .2s ease-in-out;
+      &:hover {
+        background-color: #ecbfa0;;
+      }
+    }
+}
+
+.snapped {
+    background-color: rgba(#60e09a, 0.4);
+    color: #60e09a;
+    button {
+      	box-shadow: #60e09a 3px 3px 7px;
+      	color: #60e09a;
+      &:active {
+        box-shadow: #60e09a 0 0 5px;
+      }
+    }
+}
