@@ -14,3 +14,17 @@ Création d'une app "Snapface" présentant les dernières nouveautés de Sneaker
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/SCSS-f9439e?style=for-the-badge&logo=scss&logoColor=white" alt="SCSS"/>
 </p>
+
+<h2 align="left">🛠 Aperçu </h2>
+
+- Landing-page
+
+![](/documentation/snapface-landing-page.png)
+
+- Cards
+
+![](/documentation/snapface-cards.png)
+
+- Single Card
+
+![](/documentation/snapface-single-card.png)
