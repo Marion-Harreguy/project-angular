@@ -15,7 +15,7 @@ Création d'une app "Snapface" présentant les dernières nouveautés de Sneaker
   <img src="https://img.shields.io/badge/SCSS-f9439e?style=for-the-badge&logo=scss&logoColor=white" alt="SCSS"/>
 </p>
 
-<h2 align="left">🛠 Aperçu </h2>
+<h2 align="left">🔍 Aperçu </h2>
 
 - Landing-page
 
